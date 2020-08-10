@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Greetings, I'm `junland`. Currently a working as a DevOps Engineer / Systems Engineer, focused in the embedded systems industry. Outside of my work I sometimes spend my time here on Github to contribute to open source software as well as create software.
+Greetings, I'm `junland`. Currently a working as a DevOps Engineer / Systems Engineer, focused in the embedded systems industry. Outside of my work I sometimes spend my time on Github to contribute to open source software as well as create software.
 
 #### I’m currently working on...
-* Helping out with [Serpant OS](https://github.com/serpent-linux)
+* Helping out with [Serpent OS](https://github.com/serpent-linux)
 * Researching and attempting to build a from scratch Linux distribution targeting servers and multiple architectures. 
 
 #### I’m currently learning...
