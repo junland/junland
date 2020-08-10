@@ -17,4 +17,4 @@ Greetings, I'm `junland`. Currently a working as a DevOps Engineer / Systems Eng
 
 #### How to reach me
 * `#junland` on IRC
-* `unlandj2012@gmail.com` on Email
+* `unlandj2012<<at>>gmail.com` on Email
