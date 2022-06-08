@@ -13,7 +13,3 @@ Greetings, I'm `junland`. Currently a working as a DevOps Engineer / Systems Eng
 #### I’m looking to collaborate / help with...
 * Building a from scratch Linux distribution targeting servers and multiple architectures. 
 * Unix-like CI/CD daemon.
-
-#### How to reach me
-* `#junland` on IRC
-* `unlandj2012<<at>>gmail.com` on Email
