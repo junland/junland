@@ -11,3 +11,4 @@ Greetings, I'm `junland`. Currently a working as a DevOps Engineer / Systems Eng
 * k3s
 * Python (v3.x)
 * Cross Toolchains / Cross Compiling
+* AI / LLM's
