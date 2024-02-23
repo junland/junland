@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Greetings, I'm `junland`. Currently a working as a DevOps Engineer / Systems Engineer, focused in the embedded systems industry. Outside of my work I sometimes spend my time on Github to contribute to open source software as well as create software.
+Greetings, I'm `junland`. Currently a working as a DevOps Engineer / Systems Engineer, focused in the financial / fintech industry. Outside of my work I sometimes spend my time on Github to contribute to open source software as well as creating software.
 
 #### Current TODO and IDEA list...
 
